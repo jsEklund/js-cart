@@ -1,2 +1,2 @@
 # js-cart
-Simple js cart
+Simple cart written in JavaScript
